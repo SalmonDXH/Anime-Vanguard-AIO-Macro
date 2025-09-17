@@ -30,8 +30,8 @@ farm_options = ["Daily","Half","Regular","Rift", "Bounty", "Repeatable", "Repeat
 default_opt  =["Disable" , "Enable"]
 default_choices = [app_commands.Choice(name=opt, value=i) for i,opt in enumerate(default_opt)]
 
-farmlist = ["Infinite", "Legend Stages", "Boss Rush", "Portal", "Cid", "Gems / Corrupt Odyssey", "Worldline", "Raid", "Jeju Island"]
-farmlist2 = ["Infinite", "Legend Stages", "Boss Rush", "Cid", "Gems / Corrupt Odyssey", "Raid", "Jeju Island"]
+farmlist = ["Infinite", "Legend Stages", "Boss Rush", "Portal", "Cid", "Gems / Corrupt Odyssey", "Worldline", "Raid", "Dungeon"]
+farmlist2 = ["Infinite", "Legend Stages", "Boss Rush", "Cid", "Gems / Corrupt Odyssey", "Raid", "Dungeon"]
 
 
 
